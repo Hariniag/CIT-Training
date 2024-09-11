@@ -20,7 +20,7 @@ Fullstack
 
 | Student       | marks         |Grade  |
 | ------------- |:-------------:| -----:|
-| col 3 is      | right-aligned | $1600 |
-| col 2 is      | centered      |   $12 |
-| zebra stripes | are neat      |    $1 |
+| Harini        | 99            |   A   |
+| Preethi       | 100           |   A   |
+| Shruti        | 89            |   B   |
 
