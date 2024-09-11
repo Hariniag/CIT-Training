@@ -12,5 +12,5 @@ Fullstack
 ..
 * harini
 * priya
-* revathy\n
- [Refer here]( https://chatgpt.com/c/66e106f2-37bc-8000-b93c-0496a22d963b)
+* revathy"/n"
+ "[Refer here]( https://chatgpt.com/c/66e106f2-37bc-8000-b93c-0496a22d963b)
