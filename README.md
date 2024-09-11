@@ -3,5 +3,5 @@
 ##Hi
 Fullstack
 =========
-Emphasis , aka italics *hi*
+ *hi*
 **asterisk**
